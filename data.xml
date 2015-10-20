@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet href="style.css" type="text/css" ?>
+<recette>
+    <name>Croustillants aux crevettes</name>
+    <durations>
+        <total>50 min</total>
+        <prepration>0 min</prepration>
+        <cuisson>50 min</cuisson>
+    </durations>
+    <img src="http://public.enst-bretagne.fr/~irebai/xml/recette/Recette01_fichiers/recette-croustillants-aux-crevettes.jpg">recette-croustillants-aux-crevettes</img>
+    <difficulte>Recette 100</difficulte>
+    <note>0</note>
+    <nbPerson>8</nbPerson>
+    <categories>
+        <categorie>Entrée</categorie>
+        <categorie>Poisson / Crustacé </categorie>
+    </categories>
+    <ingredients>
+        <ingredient>16 feuilles de brick</ingredient>
+        <ingredient>8 crevettes</ingredient>
+        <ingredient>1/2chorizo</ingredient>
+        <ingredient>1 avocat</ingredient>
+        <ingredient>16 tranches de fromage</ingredient>
+        <ingredient>100g de feta coupée en dés</ingredient>
+        <ingredient> 100g de mozzarella</ingredient>
+        <ingredient>1c.à.s d'huile d'olive</ingredient>
+        <ingredient>2c.à.s d'huile</ingredient>
+        <ingredient>1gousse d'ail</ingredient>
+        <ingredient>Jus de citron</ingredient>
+        <ingredient>1 oeuf battu</ingredient>
+        <ingredient>Sel, poivre</ingredient>
+    </ingredients>
+    <etapes>
+        <etape>
+            Faire chauffer dans une poêle l'huile, ajouter la gousse d'ail hachée et les crevettes.</etape>
+        <etape> Saler, poivrer.</etape>
+        <etape> Faire cuire pendant 3 minutes. Ajouter 1c.à.s de jus de citron et retirer du feu.</etape>
+        <etape>  Décortiquer les crevettes.</etape>
+        <etape>
+Dans une autre poêle faire chauffer l'huile d'olive et faire revenir le chorizo à feu vif. Ajouter un peu d'eau et laisser cuire pendant quelques minutes.</etape>
+        <etape> Egoutter et couper en morceaux.</etape>
+        <etape> 
+Découper les feuilles de brick en disques de 20cm de diamètre. Les disposer deux par deux dans des ramequins beurrés. Dorer à l'oeuf battu.</etape>
+        <etape>
+Enfourner à 180° C pendant 15min.</etape>
+        <etape> les feuilles doivent devenir dorées et croustillantes.
+Laver, éplucher et dénoyauter l'avocat.</etape>
+        <etape> Le couper en dés, ajouter le jus de citron aux morceaux d'avocat.
+Remplir les croustillants de tranches de fromage, de dés de feta, de morceaux de mozzarella et d'avocat, de morceaux de chorizo et de crevettes.</etape>
+        <etape>
+Servir aussitôt. 
+        </etape>
+    </etapes>
+</recette>

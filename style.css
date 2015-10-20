@@ -1,0 +1,19 @@
+recette {
+
+}
+
+
+recette name {
+	display: block;
+ 	font-size : 200%;
+}
+recette durations {
+	display: block;
+ 	font-size : 80%;
+}
+recette ingredients {
+	display: block;
+}
+recette etapes {
+	display: block;
+}
