@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recette>
+	<titre>Terrine de Saumon de Norvège fumé au Saumon de Norvège frais</titre>
+	<informations>
+		<!-- Durée exprimée en minutes -->
+		<duree preparation = "60"
+			     cuisson     = "0"
+			     repos       = "180"/>
+		<!-- Difficulté de 0 à 3 -->
+		<difficulte>2</difficulte>
+		<!-- Coût de 0 à 3 -->
+		<cout>2</cout>
+		<categorie>Entrée</categorie>
+	</informations>
+	<ingredients nombre_de_personnes = "4">
+    <ingredient>400 g de Saumon de Norvège fumé</ingredient>
+    <ingredient>300 g de Saumon de Norvège frais en pavé</ingredient>
+    <ingredient>2 c. à soupe de crème fraîche</ingredient>
+    <ingredient>1 petit pot d'oeufs de saumon de Norvège</ingredient>
+    <ingredient>1 c. à soupe d’huile d’olive</ingredient>
+    <ingredient>1 bouquet d'aneth ciselé</ingredient>
+    <ingredient>4 feuilles de salades</ingredient>
+    <ingredient>sel et poivre du moulin</ingredient>
+	</ingredients>
+	<preparation>
+Faites chauffer fortement une poêle anti-adhésive et saisissez dans l'huile d'olive le saumon frais 2 min sur chaque face.
+
+Débarrassez dans une jatte et écrasez-le à la fourchette pour obtenir une consistance souple.
+
+Versez la moitié du bouquet d'aneth ciselé, la crème fraîche et mélangez soigneusement.
+
+Assaisonnez et laissez refroidir.
+
+Rincez une petite terrine à l'eau fraîche sans l'essuyer.
+
+Posez des bandes de saumon fumé au fond de la terrine puis sur les bords en les laissant bien dépasser pour pouvoir rabattre.
+
+Réservez 2 grandes tranches.
+
+Hachez le reste pour le mettre dans le mélange au saumon frais.
+
+Déposez une couche de cette préparation au fond de la terrine.
+
+Couvrez d'une tranche de saumon fumé et une seconde couche de farce de saumon frais. Recouvrez à nouveau d'une tranche de saumon fumé et finissez par la farce.
+
+Rabattez les bords et tapotez la terrine sur le plan de travail pour bien la tasser.
+
+Réservez au frais pendant 3 heures.
+
+Démoulez la terrine et tranchez-la.
+
+Posez les tranches dans des assiettes.
+
+Décorez d'oeufs de saumon, de brins d'aneth et d'une feuille de salade.
+    <!-- L'élément astuces est optionnel -->
+    <astuces>Vous pouvez réaliser des petites terrines individuelles.</astuces>
+	</preparation>
+</recette>

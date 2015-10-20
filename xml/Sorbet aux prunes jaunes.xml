@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recette>
+	<titre>Sorbet aux prunes jaunes</titre>
+	<informations>
+		<!-- Durée exprimée en minutes -->
+		<duree preparation = "0"
+			     cuisson     = "35"
+			     repos       = "0"/>
+		<!-- Difficulté de 0 à 3 -->
+		<difficulte>2</difficulte>
+		<!-- Coût de 0 à 3 -->
+		<cout>2</cout>
+		<categorie>Dessert</categorie>
+	</informations>
+	<ingredients nombre_de_personnes = "4">
+    <ingredient>1 kg de prunes jaunes</ingredient>
+    <ingredient>80 cl de sirop à 16° B</ingredient>
+    <ingredient>Meringue italienne : 4 blancs d'oeufs</ingredient>
+    <ingredient>Meringue italienne : 250g de sucre semoule</ingredient>
+    <ingredient>Meringue italienne : 8cl d'eau</ingredient>
+	</ingredients>
+	<preparation>
+Laver, dénoyauter les prunes. Les couper en morceaux.
+
+Pocher les morceaux de prunes dans le sirop, cuire lentement pendant 15 minutes. Les égoutter et les mixer.
+
+Réserver au congélateur pendant 2 heures en remuant avec une fourchette à plusieurs reprises.
+
+Préparer la meringue italienne :
+
+Cuire dans un poêlon le sucre et l'eau lentement en remuant avec une écumoire.
+
+Porter à ébullition, écumer, ne plus remuer.
+
+Placer un thermomètre à sucre et cuire au petit boulé (117° à 120° C), le sucre entre les doigts forme une boule molle.
+
+Monter les blancs d'oeufs très fermes.
+
+Verser le sucre en filet sur les blancs en fouettant énergiquement.
+
+Battre jusqu'à complet refroidissement.
+
+Incorporer délicatement la pulpe de prune à la meringue.
+
+Réserver au congélateur pendant une nuit. 
+	</preparation>
+</recette>

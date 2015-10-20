@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<recette>
+	<titre>Mousse de fraises</titre>
+	<informations>
+		<!-- Durée exprimée en minutes -->
+		<duree preparation = "15"
+			     cuisson     = "0"
+			     repos       = "120"/>
+		<!-- Difficulté de 0 à 3 -->
+		<difficulte>2</difficulte>
+		<!-- Coût de 0 à 3 -->
+		<cout>2</cout>
+		<categorie>Dessert</categorie>
+	</informations>
+	<ingredients nombre_de_personnes = "4">
+    <ingredient>fraises : 500 g</ingredient>
+    <ingredient>lait concentré non sucré 1/2 écrémé : 160 g</ingredient>
+    <ingredient>édulcorant : 3 c. à soupe</ingredient>
+    <ingredient>citron : 1</ingredient>
+    <ingredient>feuille de menthe (pour le décor)</ingredient>
+	</ingredients>
+	<preparation>
+Battez très vivement au fouet électrique le lait concentré jusqu’à ce qu’il devienne mousseux (le lait doit auparavant être bien froid).
+
+Pressez le citron.
+
+Lavez et équeutez les fraises, gardez-en quelques-unes entières pour le décor. Mettez le reste des fraises dans un mixeur avec le jus de citron et l’édulcorant. Mixez le tout et incorporez délicatement ce coulis au lait.
+
+Mélangez bien et versez cette préparation dans des coupelles individuelles que vous placerez au réfrigérateur au moins pendant 2 h.
+
+Avant de servir, décorez de quelques feuilles de menthe et de fraises coupées en deux.
+    <!-- L'élément astuces est optionnel -->
+    <astuces>
+Commentaire nutritionnel : Le lait concentré, qu’il soit entier, écrémé ou ½ écrémé, résulte d’une évaporation sous vide de 60% de l’eau contenue dans le lait. Il est plus énergétique que le lait car tous ses éléments nutritifs sont concentrés. Il est souvent enrichi en vitamines (vitamine D, C et A), et, comme le lait ordinaire, il est riche en calcium (255mg/100g). Dans cette recette, le lait est non sucré et l’édulcorant remplace le sucre pour éviter une montée de la glycémie. Enfin, les fraises apportent également beaucoup de vitamines (notamment de la vitamine C : 60mg/100g) mais aussi des minéraux (fer, calcium et magnésium) et des fibres (2.1g/100g) tout en restant peu énergétiques (35Kcal/100g).
+    </astuces>
+	</preparation>
+</recette>
