@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<recette>
+<recette
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="../xsd/recette.xsd">
 	<titre>Terrine de Saumon de Norvège fumé au Saumon de Norvège frais</titre>
 	<informations>
 		<!-- Durée exprimée en minutes -->

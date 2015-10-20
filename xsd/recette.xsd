@@ -1,0 +1,57 @@
+<xs:schema 
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" 
+    xmlns:xsd="http://www.w3.org/2000/10/XMLSchema" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.42.57">
+    <xs:element name="recette">
+        <xs:complexType>
+            <xs:all>
+                <xs:element name="titre" type="xs:string"/>
+                <xs:element name="informations">
+                    <xs:complexType>
+                        <xs:all>
+                            <xs:element name="duree">
+                                <xs:complexType>
+                                    <xs:attribute name="preparation" type="xs:nonNegativeInteger"/> 
+                                    <xs:attribute name="cuisson" type="xs:nonNegativeInteger"/>
+                                    <xs:attribute name="repos" type="xs:nonNegativeInteger"/>
+                                </xs:complexType>
+                            </xs:element>
+                            <xs:element name="difficulte">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:nonNegativeInteger">
+                                        <xs:minInclusive value="0"/>
+                                        <xs:maxInclusive value="3"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="cout">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:nonNegativeInteger">
+                                        <xs:minInclusive value="0"/>
+                                        <xs:maxInclusive value="3"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="categorie" type="xs:string"/>
+                        </xs:all>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="ingredients">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="ingredient" type="xs:string" maxOccurs="unbounded"/>
+                        </xs:sequence>
+                        <xs:attribute name="nombre_de_personnes" type="xs:integer"/>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="preparation">
+                    <xs:complexType mixed="true">
+                        <xs:sequence>
+                            <xs:element name="astuces" type="xs:string" minOccurs="0" maxOccurs="1"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:all>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

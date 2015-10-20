@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recette
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:noNamespaceSchemaLocation="../xsd/recette2.xsd">
-	<titre>Croustillants aux crevettes</titre>
-	<informations>
-		<!-- Durée exprimée en minutes -->
-		<duree preparation = "0"
-			     cuisson     = "50"
-			     repos       = "0"/>
-		<!-- Difficulté de 0 à 3 -->
-		<difficulte>1</difficulte>
-		<!-- Coût de 0 à 3 -->
-		<cout>2</cout>
-		<categorie>Entrée| Poisson-Crustacé</categorie>
-	</informations>
-	<ingredients nombre_de_personnes = "8">
-    <ingredient>16 feuilles de brick</ingredient>
-    <ingredient>8 crevettes</ingredient>
-    <ingredient>1/2 chorizo</ingredient>
-    <ingredient>1 avocat</ingredient>
-    <ingredient>16 tranches de fromage</ingredient>
-    <ingredient>100 g de feta coupée en dés</ingredient>
-    <ingredient>100 g de mozzarella</ingredient>
-    <ingredient>1 c.à.s d'huile d'olive</ingredient>
-    <ingredient>2 c.à.s d'huile</ingredient>
-    <ingredient>1 gousse d'ail</ingredient>
-    <ingredient>Jus de citron</ingredient>
-    <ingredient>1 oeuf battu</ingredient>
-    <ingredient>Sel, poivre </ingredient>
-	</ingredients>
-	<preparation>
-Faire chauffer dans une poêle l'huile, ajouter la gousse d'ail hachée et les crevettes. Saler, poivrer. Faire cuire pendant 3 minutes. Ajouter 1c.à.s de jus de citron et retirer du feu. Décortiquer les crevettes.
-Dans une autre poêle faire chauffer l'huile d'olive et faire revenir le chorizo à feu vif. Ajouter un peu d'eau et laisser cuire pendant quelques minutes. Egoutter et couper en morceaux.
+    xsi:noNamespaceSchemaLocation="../xsd/recette.xsd">
+    <titre>Croustillants aux crevettes</titre>
+    <informations>
+        <!-- Durée exprimée en minutes -->
+        <duree preparation = "0"
+                       cuisson     = "50"
+                       repos       = "0"/>
+        <!-- Difficulté de 0 à 3 -->
+        <difficulte>1</difficulte>
+        <!-- Coût de 0 à 3 -->
+        <cout>2</cout>
+        <categorie>Entrée| Poisson-Crustacé</categorie>
+    </informations>
+    <ingredients nombre_de_personnes = "8">
+        <ingredient>16 feuilles de brick</ingredient>
+        <ingredient>8 crevettes</ingredient>
+        <ingredient>1/2 chorizo</ingredient>
+        <ingredient>1 avocat</ingredient>
+        <ingredient>16 tranches de fromage</ingredient>
+        <ingredient>100 g de feta coupée en dés</ingredient>
+        <ingredient>100 g de mozzarella</ingredient>
+        <ingredient>1 c.à.s d'huile d'olive</ingredient>
+        <ingredient>2 c.à.s d'huile</ingredient>
+        <ingredient>1 gousse d'ail</ingredient>
+        <ingredient>Jus de citron</ingredient>
+        <ingredient>1 oeuf battu</ingredient>
+        <ingredient>Sel, poivre </ingredient>
+    </ingredients>
+    <preparation>
+        Faire chauffer dans une poêle l'huile, ajouter la gousse d'ail hachée et les crevettes. Saler, poivrer. Faire cuire pendant 3 minutes. Ajouter 1c.à.s de jus de citron et retirer du feu. Décortiquer les crevettes.
+        Dans une autre poêle faire chauffer l'huile d'olive et faire revenir le chorizo à feu vif. Ajouter un peu d'eau et laisser cuire pendant quelques minutes. Egoutter et couper en morceaux.
 
-Découper les feuilles de brick en disques de 20cm de diamètre. Les disposer deux par deux dans des ramequins beurrés. Dorer à l'oeuf battu.
+        Découper les feuilles de brick en disques de 20cm de diamètre. Les disposer deux par deux dans des ramequins beurrés. Dorer à l'oeuf battu.
 
-Enfourner à 180° C pendant 15min. les feuilles doivent devenir dorées et croustillantes.
+        Enfourner à 180° C pendant 15min. les feuilles doivent devenir dorées et croustillantes.
 
-Laver, éplucher et dénoyauter l'avocat. Le couper en dés, ajouter le jus de citron aux morceaux d'avocat.
+        Laver, éplucher et dénoyauter l'avocat. Le couper en dés, ajouter le jus de citron aux morceaux d'avocat.
 
-Remplir les croustillants de tranches de fromage, de dés de feta, de morceaux de mozzarella et d'avocat, de morceaux de chorizo et de crevettes.
+        Remplir les croustillants de tranches de fromage, de dés de feta, de morceaux de mozzarella et d'avocat, de morceaux de chorizo et de crevettes.
 
-Servir aussitôt. 
-	</preparation>
+        Servir aussitôt. 
+    </preparation>
 </recette>
